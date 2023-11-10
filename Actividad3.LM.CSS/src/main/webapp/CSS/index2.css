@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/*Menu*/
+.cua{
+   /*cuadrado*/
+   width:200px;
+   height:200px;
+   margin:2rem;
+   background-color: green;
+   padding: 1rem blue;
+   box-shadow: 1rem 1rem green, 1rem 1rem inset blue, -1rem -1rem red;
+   margin: 20px;
+}
